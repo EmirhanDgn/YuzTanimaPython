@@ -1,4 +1,4 @@
-# YuzTanimaPython
+# Yüz Tanıma Uygulaması
 
 Python ile yapılmış bir yüz tanıma uygulaması. İçerisine eklenen yüzleri algılayarak kamera karşısında ki yüz ile karşılaştırıp benzerlik oranını da yazmaktadır.
 
